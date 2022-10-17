@@ -1,0 +1,124 @@
+Title,Public model weights,duration of model training or optimization,energy consumption,location,GHG emissions
+Uncertain Local-to-Global Networks for Document-Level Event Factuality Identification,0,0,0,0,0
+Reference-Centric Models for Grounded Collaborative Dialogue,0,0,0,0,0
+Distantly Supervised Relation Extraction using Multi-Layer Revision Network and Confidence-based Multi-Instance Learning,0,0,0,0,0
+Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes,0,0,0,0,0
+What’s Hidden in a One-layer Randomly Weighted Transformer?,0,0,0,0,0
+Self-Supervised Curriculum Learning for Spelling Error Correction,0,0,0,0,0
+Relation-aware Video Reading Comprehension for Temporal Language Grounding,0,0,0,0,0
+"Not All Negatives are Equal:
+Label-Aware Contrastive Loss for Fine-grained Text Classification",0,0,0,0,0
+Examining Cross-lingual Contextual Embeddings with Orthogonal Structural Probes,0,0,0,0,0
+OSCAR: Orthogonal Subspace Correction and Rectification of Biases in Word Embeddings,0,0,0,0,0
+Explaining Answers with Entailment Trees,0,1,0,0,0
+Genre as Weak Supervision for Cross-lingual Dependency Parsing,0,1,0,0,0
+Moving on from OntoNotes: Coreference Resolution Model Transfer,1,1,0,0,0
+Unsupervised Paraphrasing with Pretrained Language Models,0,0,0,0,0
+Unsupervised Data Augmentation with Naive Augmentation and without Unlabeled Data,0,0,0,0,0
+"A Label-Aware BERT Attention Network for Zero-Shot Multi-Intent Detection in Spoken Language Understanding
+",0,0,0,0,0
+Can We Improve Model Robustness through Secondary Attribute Counterfactuals?,0,0,0,0,0
+Enhanced Language Representation with Label Knowledge for Span Extraction,0,0,0,0,0
+We Need to Talk About train-dev-test Splits,0,0,0,0,0
+Joint Multi-modal Aspect-Sentiment Analysis with Auxiliary Cross-modal Relation Detection,0,0,0,0,0
+"TransferNet: An Effective and Transparent Framework for Multi-hop Question Answering over Relation Graph
+",0,1,0,0,0
+"SgSum:Transforming Multi-document Summarization into Sub-graph Selection
+",0,0,0,0,0
+Mutual-Learning Improves End-to-End Speech Translation,0,0,0,0,0
+"Improving Federated Learning for Aspect-based Sentiment Analysis via Topic Memories
+",0,0,0,0,0
+TEMP: Taxonomy Expansion with Dynamic Margin Loss through Taxonomy-Paths,0,0,0,0,0
+COUGH: A Challenge Dataset and Models for COVID-19 FAQ Retrieval,0,0,0,0,0
+Large-Scale Relation Learning for Question Answering over Knowledge Bases with Pre-trained Language Models,0,1,0,0,0
+A Fine-Grained Domain Adaption Model for Joint Word Segmentation and POS Tagging,0,0,0,0,0
+Label-Enhanced Hierarchical Contextualized Representation for Sequential Metaphor Identification,0,0,0,0,0
+GMH: A General Multi-hop Reasoning Model for KG Completion,0,0,0,0,0
+GraphMR: Graph Neural Network for Mathematical Reasoning,0,1,0,0,0
+ActiveEA: Active Learning for Neural Entity Alignment,0,0,0,0,0
+Self-Supervised Quality Estimation for Machine Translation,0,0,0,0,0
+Improving Neural Machine Translation by Bidirectional Training,0,0,0,0,0
+Allocating Large Vocabulary Capacity for Cross-lingual Language Model Pre-training,1,1,0,0,0
+Difficult Samples Re-embedding via Mutual Information Constrained Semantically Oversampling,0,0,0,0,0
+MetaTS: Meta Teacher-Student Network for Multilingual Sequence Labeling with Minimal Supervision,0,0,0,0,0
+HRKD: Hierarchical Relational Knowledge Distillation for Cross-domain Language Model Compression,0,0,0,0,0
+Hierarchical Heterogeneous Graph Representation Learning for Short Text Classification,0,0,0,0,0
+Neuro-Symbolic Approaches for Text-Based Policy Learning,0,0,0,0,0
+Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning,0,0,0,0,0
+#HowYouTagTweets: Learning User Hashtagging Preferences via Personalized Topic Attention,0,0,0,0,0
+Distantly-Supervised Evidence Retrieval Enables Question Answering without Evidence Annotation,1,1,0,0,0
+"Unsupervised Multi-View Post-OCR Error Correction
+With Language Models",0,0,0,0,0
+"Towards Zero-shot Commonsense Reasoning
+with Self-supervised Refinement of Language Models",0,0,0,0,0
+"Integrating Personalized PageRank
+into Neural Word Sense Disambiguation",0,0,0,0,0
+Efficient Inference for Multilingual Neural Machine Translation,1,1,0,0,0
+An Information-Theoretic Characterization of Morphological Fusion,0,0,0,0,0
+"MLEC-QA: A Chinese Multi-Choice Biomedical Question Answering
+Dataset",0,0,0,0,0
+"Agreeing to Disagree: Annotating Offensive Language Datasets
+with Annotators’ Disagreement",0,1,0,0,0
+"A Differentiable Relaxation of Graph Segmentation
+and Alignment for AMR Parsing",0,0,0,0,0
+"I NDO BERT WEET: A Pretrained Language Model for Indonesian Twitter
+with Effective Domain-Specific Vocabulary Initialization",1,0,0,1,0
+"Document-Level Text Simplification: Dataset, Criteria and Baseline",1,0,0,0,0
+Exploring Non-Autoregressive Text Style Transfer,0,0,0,0,0
+"Multilingual Unsupervised Neural Machine Translation
+with Denoising Adapters",1,0,0,0,0
+"What’s in a Name?
+Answer Equivalence For Open-Domain Question Answering",0,0,0,0,0
+Models and Datasets for Cross-Lingual Summarisation,0,1,0,0,0
+STaCK: Sentence Ordering with Temporal Commonsense Knowledge,0,0,0,0,0
+"Putting Words in BERT’s Mouth:
+Navigating Contextualized Vector Spaces with Pseudowords",0,0,0,0,0
+"CLASSIC: Continual and Contrastive Learning of Aspect
+Sentiment Classification Tasks",0,1,0,0,0
+"Does It Capture STEL? A Modular, Similarity-based Linguistic Style
+Evaluation Framework",0,1,0,0,0
+Explore Better Relative Position Embeddings from Encoding Perspective for Transformer Models,0,0,0,0,0
+Linguistic Dependencies and Statistical Dependence,0,0,0,0,0
+Weakly-supervised Text Classification Based on Keyword Graph,0,0,0,0,0
+Entity Relation Extraction as Dependency Parsing in Visually Rich Documents,0,0,0,0,0
+Gradient Imitation Reinforcement Learning for Low Resource Relation Extraction,0,0,0,0,0
+Heterogeneous Graph Neural Networks for Keyphrase Generation,0,0,0,0,0
+A Novel Global Feature-Oriented Relational Triple Extraction Model based on Table Filling,0,1,0,0,0
+Unsupervised Conversation Disentanglement through Co-Training,0,0,0,0,0
+Entity-Based Knowledge Conflicts in Question Answering,0,0,0,0,0
+Universal Sentence Representation Learning with Conditional Masked Language Model,0,0,0,0,0
+Meta Distant Transfer Learning for Pre-trained Language Models,0,0,0,0,0
+Sparsity and Sentence Structure in Encoder-Decoder Attention of Summarization Systems,0,0,0,0,0
+Cross-Domain Label-Adaptive Stance Detection,0,1,0,0,0
+Proxy Indicators for the Quality of Open-domain Dialogues,0,1,0,0,0
+Towards Label-Agnostic Emotion Embeddings,1,1,0,0,0
+Revisiting Self-Training for Few-Shot Learning of Language Model,0,0,0,0,0
+Constrained Language Models Yield Few-Shot Semantic Parsers,1,0,0,0,0
+Few-Shot Named Entity Recognition: An Empirical Baseline Study,1,0,0,0,0
+"C ROSS F IT : A Few-shot Learning Challenge for
+Cross-task Generalization in NLP",1,1,0,0,0
+Meta Distant Transfer Learning for Pre-trained Language Models,0,0,0,0,0
+Visually Grounded Reasoning across Languages and Culture,0,0,0,0,0
+Semi-Supervised Exaggeration Detection of Health Science Press Releases,0,1,0,0,0
+Multivalent Entailment Graphs for Question Answering,0,0,0,0,0
+MTAdam: Automatic Balancing of Multiple Training Loss Terms,0,1,0,0,0
+"INDOBERTWEET: A Pretrained Language Model for Indonesian Twitter with Effective Domain-Specific Vocabulary Initialization
+",1,0,0,1,0
+How to Train BERT with an Academic Budget,0,1,0,0,0
+What to Pre-Train on? Efficient Intermediate Task Selection,0,0,0,0,0
+Generating Datasets with Pretrained Language Models,0,1,0,0,0
+Cross-Register Projection for Headline Part of Speech Tagging,0,1,0,0,0
+"ConvAbuse: Data, Analysis, and Benchmarks for
+Nuanced Abuse Detection in Conversational AI",0,0,0,0,0
+BI SECT: Learning to Split and Rephrase Sentences with Bitexts,1,1,0,0,0
+"Data Collection vs. Knowledge Graph Completion:
+What is Needed to Improve Coverage?",0,0,0,0,0
+"Back to Square One:
+Artifact Detection, Training and Commonsense Disentanglement in the Winograd Schema",0,0,0,0,0
+Rationales for Sequential Predictions,0,1,0,0,0
+Neural Machine Translation Quality and Post-Editing Performance,0,1,0,0,0
+On Classifying whether Two Texts are on the Same Side of an Argument,0,1,0,0,0
+R3Net:Relation-embedded Representation Reconstruction Network for Change Captioning,0,0,0,0,0
+Does Social Pressure Drive Persuasion in Online Fora?,0,1,0,1,0
+Unsupervised Multi-View Post-OCR Error Correction With Language Models,0,0,0,0,0
+Proportions,0.13,0.28,0,0.03,0
