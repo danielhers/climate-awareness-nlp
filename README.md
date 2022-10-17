@@ -29,7 +29,7 @@ Here is an example climate performance model card according to the guidelines pr
 
 ## Survey of Climate Discussion in NLP
 
-[Towards_Climate_Awareness.ipynb](Towards_Climate_Awareness.ipynb) is a collaborative notebook with the code used to conduct our survey of 2016-2021 papers from the [ACL Anthology](https://aclanthology.org/).
+[Towards_Climate_Awareness.ipynb](Towards_Climate_Awareness.ipynb) is a collaborative notebook with the code used to conduct our survey of 2016-2022 papers from the [ACL Anthology](https://aclanthology.org/).
 The following figure from the paper visualizes the development of proportions of deep-learning-related *ACL papers discussing *public* model weights, *duration* of model training or optimization, *energy* consumption, *location* where computations where performed, and *emission* of GHG.
 
 <p align="center">
