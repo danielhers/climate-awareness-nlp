@@ -13,7 +13,9 @@ This repository contains the code and model card templates accompanying the pape
 } 
 ```
 
-## Example Model Card
+## Example Model Cards
+
+The directory [`model_cards`](model_cards/) contains model cards for some commonly used NLP models, including [GPT-3](model_cards/gpt3.md) and [BLOOM](model_cards/bloom.md).
 
 [Here](model_cards/climatebert.md) is an example climate performance model card according to the guidelines proposed in this paper. The model is [ClimateBert](https://climatebert.ai/), a language model finetuned on climate-related text. The same information is provided on the [Hugging Face model page](https://huggingface.co/climatebert).
 
