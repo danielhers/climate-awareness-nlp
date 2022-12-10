@@ -15,7 +15,7 @@ This repository contains the code and model card templates accompanying the pape
 
 ## Example Model Card
 
-Here is an example climate performance model card according to the guidelines proposed in this paper. The model is [ClimateBert](https://climatebert.ai/), a language model finetuned on climate-related text. The same information is provided on the [Hugging Face model page](https://huggingface.co/climatebert).
+[Here](model_cards/climatebert.md) is an example climate performance model card according to the guidelines proposed in this paper. The model is [ClimateBert](https://climatebert.ai/), a language model finetuned on climate-related text. The same information is provided on the [Hugging Face model page](https://huggingface.co/climatebert).
 
 <p align="center">
 <img src="model_card_climatebert.png" width="400">
