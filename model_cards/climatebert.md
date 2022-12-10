@@ -13,3 +13,7 @@
 | 9. What is the average CO2eq emission for the inference of one sample?   | 0.62 mg        |
 | 10. Which positive environmental impact can be expected from this work?  | This work can be categorized as a building block tools following Jin et al (2021). It supports the training of NLP models in the field of climate change and, thereby, have a positive environmental impact in the future. |
 | 11. Comments                                                             | Block pruning could decrease CO2eq emissions |
+
+## References
+
+- https://arxiv.org/abs/2110.12010
