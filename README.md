@@ -1,16 +1,23 @@
 # Towards Climate Awareness in NLP Research
-This repository contains the code and model card templates accompanying the paper [Towards Climate Awareness in NLP Research](https://arxiv.org/abs/2205.05071):
+This repository contains the code and model card templates accompanying the paper [Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/), presented in [EMNLP 2022](https://2022.emnlp.org/):
 
 ```
 @inproceedings{hershcovich-etal-2022-towards,
-  url = {https://arxiv.org/abs/2205.05071},
-  author = {Hershcovich, Daniel and Webersinke, Nicolas and Kraus, Mathias and Bingler, Julia Anna and Leippold, Markus},
-  title = {Towards Climate Awareness in {NLP} Research},
-  booktitle = {Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing},
-  publisher = {Association for Computational Linguistics},
-  year = {2022},
-  month = dec
-} 
+    title = "Towards Climate Awareness in {NLP} Research",
+    author = "Hershcovich, Daniel  and
+      Webersinke, Nicolas  and
+      Kraus, Mathias  and
+      Bingler, Julia  and
+      Leippold, Markus",
+    booktitle = "Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.emnlp-main.159",
+    pages = "2480--2494",
+    abstract = "The climate impact of AI, and NLP research in particular, has become a serious issue given the enormous amount of energy that is increasingly being used for training and running computational models. Consequently, increasing focus is placed on efficient NLP. However, this important initiative lacks simple guidelines that would allow for systematic climate reporting of NLP research. We argue that this deficiency is one of the reasons why very few publications in NLP report key figures that would allow a more thorough examination of environmental impact, and present a quantitative survey to demonstrate this. As a remedy, we propose a climate performance model card with the primary purpose of being practically usable with only limited information about experiments and the underlying computer hardware. We describe why this step is essential to increase awareness about the environmental impact of NLP research and, thereby, paving the way for more thorough discussions.",
+}
 ```
 
 ## Example Model Cards
