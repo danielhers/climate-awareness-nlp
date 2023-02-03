@@ -22,6 +22,23 @@ This repository contains the code and model card templates accompanying the pape
 }
 ```
 
+## Getting Started
+To fill the model card, you should answer the following questions:
+
+1. _Is the resulting model publicly available?_ Yes or no. A popular model repository is [Hugging Face](https://huggingface.co/models).
+2. _How much time does the training of the final model take?_ Training time for one model (the one that is publicaly available, if applicable). We recommend tools like [Weights & Biases](https://wandb.ai/) to track computations.
+3. _How much time did all experiments take (incl. hyperparameter search)?_ Total time for all training runs of variations of that model.
+4. _What was the energy consumption (GPU/CPU)?_ Also referred to as Max Thermal Design Power (TDP). Check your GPU specifications (example: [A100](https://www.nvidia.com/en-us/data-center/a100)).
+5. _At which geo location were the computations performed?_ Country where the server or data center is located.
+6. _What was the energy mix at the geo location?_ Find your country [here](https://lowcarbonpower.org/map-gCO2eq-kWh). The unit is gCO2eq/kWh.
+7. _How much CO2eq was emitted to train the final model?_ Can be estimated after computations are done using tools such as the [ML CO2 Impact calculator](https://mlco2.github.io/impact/), but the eaiser and most accurate is using [CodeCarbon](https://codecarbon.io/) or [carbontracker](https://github.com/lfwa/carbontracker) while running the model training.
+8. _How much CO2eq was emitted for all experiments?_ Total emissions for all training runs of variations of that model.
+9. _What is the average CO2eq emission for the inference of one sample?_ With a trained model, estimate this for one instance/sentence/document, depending on what makes sense for your task.
+10. _Which positive environmental impact can be expected from this work?_ Is it fundamental theory? Building block tool? Applicable tool? Deployed application? See [Jin et al. (2021)](https://aclanthology.org/2021.findings-acl.273/).
+
+For a visual tutorial, see our [slides](emnlp2022-climate-awareness-nlp-slides.pdf), also presented at EMNLP 2022.
+
+
 ## Example Model Cards
 
 The directory [`model_cards`](model_cards/) contains model cards for some commonly used NLP models, including [GPT-3](model_cards/gpt3.md) and [BLOOM](model_cards/bloom.md).
