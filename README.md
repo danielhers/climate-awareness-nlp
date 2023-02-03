@@ -1,4 +1,6 @@
 # Towards Climate Awareness in NLP Research
+The environmental impact of AI, and particularly Natural Language Processing (NLP), has become significant and is worryingly increasing due to the enormous energy consumption of model training and deployment. Here, we draw on corporate climate reporting standards and proposes a model card for NLP models, aiming to increase reporting relevance, completeness, consistency, transparency, and accuracy.
+
 This repository contains the code and model card templates accompanying the paper [Towards Climate Awareness in NLP Research](https://aclanthology.org/2022.emnlp-main.159/), presented in [EMNLP 2022](https://2022.emnlp.org/):
 
 ```
