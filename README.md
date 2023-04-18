@@ -64,3 +64,5 @@ The following figure from the paper visualizes the development of proportions of
 <img src="survey_proportions.png" width="400">
 </p>
 
+## See Also
+[It's Easy Being Green in Machine Learning](https://dustinwright.substack.com/p/its-easy-being-green-in-machine-learning?publication_id=1395146&post_id=115560251), blog post by Dustin Wright. 
